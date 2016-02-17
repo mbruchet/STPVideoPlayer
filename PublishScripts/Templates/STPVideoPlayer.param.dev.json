@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "stpvideoplayer"
+  },
+  "hostingPlanName": {
+    "value": "Default1"
+  },
+  "siteLocation": {
+    "value": "West Europe"
+  },
+  "sku": {
+    "value": "Basic"
+  },
+  "workerSize": {
+    "value": "1"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "5f2c3a02-1758-4ceb-bd80-85c7e31cc5e9"
+  },
+  "resourceGroup": {
+    "value": "Default-Web-WestEurope"
+  }
+}

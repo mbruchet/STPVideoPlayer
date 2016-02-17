@@ -1,0 +1,8 @@
+C:\Projects\STPVideoPlayer\STPVideoPlayer.DataLayer\bin\Debug\STPVideoPlayer.DataLayer.dll
+C:\Projects\STPVideoPlayer\STPVideoPlayer.DataLayer\bin\Debug\STPVideoPlayer.DataLayer.pdb
+C:\Projects\STPVideoPlayer\STPVideoPlayer.DataLayer\bin\Debug\TypeLite.dll
+C:\Projects\STPVideoPlayer\STPVideoPlayer.DataLayer\bin\Debug\TypeLite.Net4.dll
+C:\Projects\STPVideoPlayer\STPVideoPlayer.DataLayer\bin\Debug\TypeLite.pdb
+C:\Projects\STPVideoPlayer\STPVideoPlayer.DataLayer\bin\Debug\TypeLite.Net4.pdb
+C:\Projects\STPVideoPlayer\STPVideoPlayer.DataLayer\obj\Debug\STPVideoPlayer.DataLayer.dll
+C:\Projects\STPVideoPlayer\STPVideoPlayer.DataLayer\obj\Debug\STPVideoPlayer.DataLayer.pdb

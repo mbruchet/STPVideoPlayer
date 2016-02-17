@@ -1,0 +1,24 @@
+﻿html {
+    width:100%;
+    height:100%;
+    margin:0;
+}
+body{
+    font-family:Calibri;
+}
+
+span.applicationName{
+    color:red;
+    font-size:18px;
+}
+
+span.videoTitle{
+    color:blue;
+    font-size:18px;
+}
+
+.videoplayer{
+    width:100%;
+    min-height:100%;
+    border:1px dotted blue;
+}

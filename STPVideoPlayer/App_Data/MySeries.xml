@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<series>
+  <serie name="abime-de-la-passion">
+    <programmations>
+      <programmation id="1" episodenumber="1" videotype="youtube" url="gjsgff17Hl4" />
+      <programmation id="2" episodenumber="2" videotype="youtube" url="AKibig56Xgk" />
+      <programmation id="3" episodenumber="3" videotype="youtube" url="pM30BlAzFrI" />
+    </programmations>
+  </serie>
+  <serie name="double-jeux">
+    <programmations>
+      <programmation id="1" episodenumber="1" videotype="youtube" url="PtuYipZQzb8" />
+      <programmation id="2" episodenumber="2" videotype="youtube" url="Q-LTrwNhQ4s" />
+      <programmation id="3" episodenumber="3" videotype="youtube" url="ocGZmGPcb60" />
+    </programmations>
+  </serie>
+  <serie name="el-diablo">
+    <programmations>
+      <programmation id="1" episodenumber="1" videotype="youtube" url="hrzsLPFVA4Y" />
+      <programmation id="2" episodenumber="2" videotype="youtube" url="g-ze6gc9zJU" />
+    </programmations>
+  </serie>
+  <serie name="au-nom-de-la-verite">
+    <programmations>
+      <programmation id="1" episodenumber="1" videotype="youtube" url="0fI-2vowLVk" />
+      <programmation id="2" episodenumber="2" videotype="youtube" url="PQLhjjt6j3g" />
+    </programmations>
+  </serie>
+</series>

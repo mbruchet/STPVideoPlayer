@@ -1,5 +1,4 @@
 # STPVideoPlayer
-Projet ANGULARJS - TypeScript - MongoDb pour la diffusion depuis un fichier timeline de flux vidéo. dans la version actuelle il supporte uniquement la version HTML 5 et Youtube.
 1.	Présentation du Projet
 Le projet Serveur de vidéo a pour objectif de permettre la mise en place d’une chaîne de diffusion vidéo contrôlé à travers d’un flux XML.
 2.	Définition et terminologie

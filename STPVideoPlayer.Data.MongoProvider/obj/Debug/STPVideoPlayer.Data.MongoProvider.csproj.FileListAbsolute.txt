@@ -1,0 +1,14 @@
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\bin\Debug\STPVideoPlayer.Data.MongoProvider.dll
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\bin\Debug\STPVideoPlayer.Data.MongoProvider.pdb
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\bin\Debug\MongoDB.Bson.dll
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\bin\Debug\MongoDB.Driver.Core.dll
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\bin\Debug\MongoDB.Driver.dll
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\bin\Debug\STPVideoPlayer.DataLayer.dll
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\bin\Debug\TypeLite.dll
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\bin\Debug\STPVideoPlayer.DataLayer.pdb
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\bin\Debug\MongoDB.Bson.xml
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\bin\Debug\MongoDB.Driver.xml
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\bin\Debug\TypeLite.pdb
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\obj\Debug\STPVideoPlayer.Data.MongoProvider.csprojResolveAssemblyReference.cache
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\obj\Debug\STPVideoPlayer.Data.MongoProvider.dll
+C:\Projects\STPVideoPlayer\STPVideoPlayer.Data.MongoProvider\obj\Debug\STPVideoPlayer.Data.MongoProvider.pdb
